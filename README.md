@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Amaterasq
-- 👀 I’m interested in backend development, data analysis
+- 👀 I’m interested in backend development
 - 🌱 I’m currently learning Python development
 - 💞️ I’m looking to collaborate on on python / django projects
 - 📫 How to reach me: telegram - @amaterasutengu
